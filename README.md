@@ -2,7 +2,7 @@
 
 A simple, procedurally generated forest scene developed in Java's native GUI.
 
-![Demo Image](./forestImage.jpg)
+![Demo Image](https://i.gyazo.com/84d1f4349e17e05b947e934db1763f72.png)
 
 Learn more about procedural generation [here](https://en.wikipedia.org/wiki/Procedural_generation).
 
