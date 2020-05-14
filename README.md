@@ -2,6 +2,8 @@
 
 A simple, procedurally generated forest scene developed in Java's native GUI.
 
+![Demo Image](forestImage.jpg)
+
 Learn more about procedural generation [here](https://en.wikipedia.org/wiki/Procedural_generation).
 
 
